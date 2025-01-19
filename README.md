@@ -1,10 +1,10 @@
 
 # ![ZenVisionGIF](https://github.com/user-attachments/assets/3e941854-0679-4d1c-b1e8-6537f595c031)
 
-#📻 MP3-player
+# 📻 MP3-player
 - This project features a Music Player website interface built with HTML5, CSS, and JavaScript.
 
- #🚀 Key Features
+ # 🚀 Key Features
 It includes functionalities such as:
 - Starting and stopping music playback,
 - Skipping forward and backward,
